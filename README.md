@@ -1,8 +1,11 @@
+<div id="header" align="center">
+    <h1>Hi there, I'm  Azamat </h1>
+</div>
 ## Hi, everybody 👋
 
 <!--
 **azamatbugov96/azamatbugov96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+### About me
 <h1>I work as a linux system administrator.</h1>
 <h2>- 🌱 I am currently studying to become an ML engineer</h2>
 <h2>- 👯 I am ready to cooperate and participate in open projects on neural networks<h2>
