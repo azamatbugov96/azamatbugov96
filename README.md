@@ -3,9 +3,9 @@
 </div>
 
 ### About me
- I work as a linux system administrator.</h1>
-- 🌱 I am currently studying to become an ML engineer</h2>
-- 👯 I am ready to cooperate and participate in open projects on neural networks<h2>
+ I work as a linux system administrator.
+- 🌱 I am currently studying to become an ML engineer
+- 👯 I am ready to cooperate and participate in open projects on neural networks
 - 📫 You can contact me by writing to my email
 - 🌍 I speak English
 ### Languages and tools
@@ -22,7 +22,6 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ssh/ssh-original-wordmark.svg" width="40" height="40"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualstudio/visualstudio-original.svg" width="40" height="40"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/hyperv/hyperv-original-wordmark.svg" width="40" height="40"/>&nbsp;
--->
           
           
           
