@@ -1,6 +1,6 @@
 <div id="header" align="center">
     <h1>Hi there, I'm  Azamat </h1>
-</div>
+
 
 <!--
 ### About me
@@ -9,7 +9,7 @@
 - 👯 I am ready to cooperate and participate in open projects on neural networks<h2>
 - 📫 You can contact me by writing to my email
 ---
-
+</div>
 ### Languages and tools
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cloudflare/cloudflare-original.svg" width="40" height="40"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" width="40" height="40"/>&nbsp;
