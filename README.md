@@ -5,10 +5,10 @@
 <!--
 **azamatbugov96/azamatbugov96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 ### About me
-<h1>I work as a linux system administrator.</h1>
-<h2>- 🌱 I am currently studying to become an ML engineer</h2>
-<h2>- 👯 I am ready to cooperate and participate in open projects on neural networks<h2>
-<h2>- 📫 You can contact me by writing to my email</h2>
+ I work as a linux system administrator.</h1>
+- 🌱 I am currently studying to become an ML engineer</h2>
+- 👯 I am ready to cooperate and participate in open projects on neural networks<h2>
+- 📫 You can contact me by writing to my email
 ---
 
 ### Languages and tools
@@ -28,7 +28,7 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualstudio/visualstudio-original.svg" width="40" height="40"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/hyperv/hyperv-original-wordmark.svg" width="40" height="40"/>&nbsp;
 
----
+-->
           
           
           
