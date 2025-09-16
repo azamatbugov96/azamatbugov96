@@ -10,7 +10,11 @@
 <h2>- 🌱 I am currently studying to become an ML engineer</h2>
 <h2>- 👯 I am ready to cooperate and participate in open projects on neural networks<h2>
 <h2>- 📫 You can contact me by writing to my email</h2>
--->languages and technologies
+---
+
+### Languages and tools
+
+
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cloudflare/cloudflare-original.svg" width="40" height="40"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" width="40" height="40"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" width="40" height="40"/>&nbsp;
