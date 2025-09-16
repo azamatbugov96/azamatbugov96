@@ -1,7 +1,6 @@
 <div id="header" align="center">
     <h1>Hi there, I'm  Azamat </h1>
 </div>
-## Hi, everybody 👋
 
 <!--
 **azamatbugov96/azamatbugov96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -28,6 +27,8 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ssh/ssh-original-wordmark.svg" width="40" height="40"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualstudio/visualstudio-original.svg" width="40" height="40"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/hyperv/hyperv-original-wordmark.svg" width="40" height="40"/>&nbsp;
+
+---
           
           
           
