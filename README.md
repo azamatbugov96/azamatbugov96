@@ -3,7 +3,6 @@
 </div>
 
 <!--
-**azamatbugov96/azamatbugov96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 ### About me
  I work as a linux system administrator.</h1>
 - 🌱 I am currently studying to become an ML engineer</h2>
